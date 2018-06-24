@@ -1,8 +1,17 @@
 # Kickstarter Analysis
 
-Project analyzing the characteristics of funded kickstarter projects.
+Project analyzing the characteristics from a subset of kickstarter projects between 2009 and 2017.
 
 Analysis done using Excel's PivotTable, PivotChart, functions, and conditional formatting
+
+##### Projects by Category and Status
+![Projects by Category and Status](status_cat.jpg)
+
+##### Projects by Subcategory and Status
+![Projects by Subcategory and Status](status_subcat.jpg)
+
+##### Project Statuses Over Time
+![Project Statuses Over Time](status_time.jpg)
 
 #### Conclusions
 - The top 4 categories with the highest # of projects were:
